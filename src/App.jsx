@@ -4,6 +4,7 @@ import './index.css'
 import * as yup from 'yup'
 import axios from 'axios'
 import { useState } from 'react'
+import { useData } from './hooks/useData'
 
 const schema = yup.object({
   userInput: yup
@@ -19,13 +20,16 @@ export const App = () => {
   // Guarda la respuesta de llama2
   const [response, setResponse] = useState('')
   const [loading, setLoading] = useState(false)
+  const { multiplicar } = useData()
+
+  console.log(multiplicar(5))
 
   const handlePregunta = async (data) => {
     console.log(data)
     setLoading(true)
     try {
       const res = await axios.post('http://localhost:11434/api/generate', {
-        model: 'llama2',
+        model: 'deepseek-r1:1.5b',
         prompt: data.userInput,
         stream: false
       })
