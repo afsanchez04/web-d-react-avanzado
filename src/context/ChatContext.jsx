@@ -20,9 +20,6 @@ const chatReducer = (state, action) => {
   }
 }
 
-/* dispatch({ type: 'ADD_MESSAGE', payload: { from: 'user', text: userPrompt } })
-dispatch({ type: 'ADD_MESSAGE', payload: { from: 'bot', text: res.data.response } }) */
-
 // 2. Provider
 
 export const ChatProvider = ({ children }) => {
