@@ -1,0 +1,48 @@
+{
+  "accion": [
+    {
+      "id": 1,
+      "titulo": "Misión Imposible",
+      "director": "Christopher McQuarrie",
+      "year": 2015,
+      "pais": "usa"
+    },
+    {
+      "id": 2,
+      "titulo": "John Wick",
+      "director": "Chad Stahelski",
+      "year": 2014,
+      "pais": "usa"
+    },
+    {
+      "id": 3,
+      "titulo": "Mad Max: Furia en el camino",
+      "director": "George Miller",
+      "year": 2015,
+      "pais": "usa"
+    }
+  ],
+  "drama": [
+    {
+      "id": 1,
+      "titulo": "En busca de la felicidad",
+      "director": "Gabriele Muccino",
+      "year": 2006,
+      "pais": "mexico"
+    },
+    {
+      "id": 2,
+      "titulo": "El Padrino",
+      "director": "Francis Ford Coppola",
+      "year": 1972,
+      "pais": "mexico"
+    },
+    {
+      "id": 3,
+      "titulo": "La lista de Schindler",
+      "director": "Steven Spielberg",
+      "year": 1993,
+      "pais": "mexico"
+    }
+  ]
+}
