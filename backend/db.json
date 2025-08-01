@@ -11,6 +11,54 @@
       "text": "React express",
       "sender": "bot",
       "timestamp": "2025-07-30T02:25:59.688Z"
+    },
+    {
+      "id": 1754010307492,
+      "text": "hola",
+      "sender": "user",
+      "timestamp": "2025-08-01T01:05:07.492Z"
+    },
+    {
+      "id": 1754010323568,
+      "text": "que es react",
+      "sender": "user",
+      "timestamp": "2025-08-01T01:05:23.568Z"
+    },
+    {
+      "id": 1754010351098,
+      "text": "hola",
+      "sender": "user",
+      "timestamp": "2025-08-01T01:05:51.098Z"
+    },
+    {
+      "id": 1754010360984,
+      "text": "por que el cielo es azul",
+      "sender": "user",
+      "timestamp": "2025-08-01T01:06:00.984Z"
+    },
+    {
+      "id": 1754011014074,
+      "text": "hola",
+      "sender": "user",
+      "timestamp": "2025-08-01T01:16:54.074Z"
+    },
+    {
+      "id": 1754011021018,
+      "text": "Hola! ¿Cómo estás?",
+      "sender": "bot",
+      "timestamp": "2025-08-01T01:17:01.018Z"
+    },
+    {
+      "id": 1754011043065,
+      "text": "que es react?",
+      "sender": "user",
+      "timestamp": "2025-08-01T01:17:23.065Z"
+    },
+    {
+      "id": 1754011125136,
+      "text": "\nReact es una biblioteca de programación de código abierto para la creación de aplicaciones web y móviles. Fue desarrollada por Facebook en 2013 y desde entonces ha ganado popularidad como una de las principales tecnologías de desarrollo web.\n\nReact permite a los desarrolladores crear interfaces de usuario (UI) y aplicaciones web de manera más rápida y sencilla, utilizando un conjunto de componentes reutilizables que se pueden combinar para construir la interfaz de usuario deseada. Esto permite una mayor modularidad y escalabilidad en el desarrollo de aplicaciones, lo que facilita el mantenimiento y la evolución del proyecto.\n\nReact utiliza un enfoque diferente a la programación tradicional, llamado \"component-based programming\". En lugar de trabajar con estructuras de control de flujo y funciones individuales, los desarrolladores trabajan con componentes reutilizables que se pueden combinar para construir la interfaz de usuario deseada.\n\nAlgunas características clave de React incluyen:\n\n1. Componentes reutilizables: Los componentes en React son pequeños bloques de código que representan una parte de la aplicación, como un botón o un menú de opciones. Estos componentes se pueden reuse en diferentes partes de la aplicación.\n2. Estructura de datos dinámica: React utiliza un sistema de datos dinámico para almacenar información sobre el estado de la aplicación. Esto significa que los componentes pueden actualizarse automáticamente cuando el estado de la aplicación cambia.\n3. Renderizado en tiempo real: React utiliza un proceso de renderizado en tiempo real, lo que significa que la aplicación se renderiza de manera inmediata a medida que el usuario interactúa con ella.\n4. Libraries y frameworks: React se integra bien con otras librerías y frameworks populares, como Redux para el manejo del estado y Connect para la creación de APIs.\n5. Comunidad activa: React tiene una comunidad activa y en constante crecimiento, lo que significa que hay muchos recursos disponibles para aprender y mejorar en el lenguaje.\n\nEn resumen, React es una herramienta poderosa para la creación de aplicaciones web y móviles, gracias a su enfoque en componentes reutilizables, renderizado en tiempo real y integración con otras librerías y frameworks populares.",
+      "sender": "bot",
+      "timestamp": "2025-08-01T01:18:45.136Z"
     }
   ]
 }
